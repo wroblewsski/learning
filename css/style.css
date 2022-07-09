@@ -20,4 +20,8 @@ div {
   -webkit-transform: t;
           transform: t;
 }
+
+h1 {
+  color: #fff;
+}
 /*# sourceMappingURL=style.css.map */
